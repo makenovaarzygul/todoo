@@ -54,3 +54,11 @@ Mailtrap - это платформа доставки электронной п�
 ![image](https://github.com/makenovaarzygul/todoo/assets/111987442/a85a3cb8-2483-4c59-b691-b4e310dd2584)
 
 
+РУКОВОДСТВО ПРОГРАММИСТА
+шаг 1. Composer install
+шаг 2. Composer update
+шаг 3. Создать бд todo_app
+шаг 4. Php artisan migrate
+шаг 5. Php artisan serve
+шаг 6. php artisan schedule:work
+
